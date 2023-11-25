@@ -1,0 +1,19 @@
+{
+    "blogs":[
+        {"title":"Psychology of Money" ,
+         "author":"Money Man",
+          "body":"mybody",
+           "id":1
+        },
+        {
+        "title":"Psychology of Health" ,
+        "author":"Health Man", 
+        "body":"mybody",
+        "id":2
+        },
+        {"title":"Psychology of Time" ,
+        "author":"Time Man",
+        "body":"mybody",
+        "id":3}
+    ]
+}
