@@ -1,19 +1,124 @@
 {
-    "blogs":[
-        {"title":"Psychology of Money" ,
-         "author":"Money Man",
-          "body":"mybody",
-           "id":1
-        },
-        {
-        "title":"Psychology of Health" ,
-        "author":"Health Man", 
-        "body":"mybody",
-        "id":2
-        },
-        {"title":"Psychology of Time" ,
-        "author":"Time Man",
-        "body":"mybody",
-        "id":3}
-    ]
+  "blogs": [
+    {
+      "title": "Psychology of Money",
+      "author": "Money Man",
+      "body": "Rachel Cruze is a #1 New York Times bestselling author, financial expert, and host of The Rachel Cruze Show. Rachel writes and speaks on personal finances, budgeting, investing and money trends. As a co-host of The Ramsey Show, America’s second-largest talk radio show, Rachel reaches millions of weekly listeners with her personal finance advice. She has appeared on Good Morning America and Fox News and has been featured in publications such as Time, Real Simple and Women’s Health magazines. Through her shows, books, syndicated columns and speaking events, Rachel shares fun, practical ways to take control of your money and create a life you love.",
+      "id": 1
+    },
+    {
+      "title": "Psychology of Health",
+      "author": "Health Man",
+      "body": "mybody",
+      "id": 2
+    },
+    {
+      "title": "Psychology of Time",
+      "author": "Time Man",
+      "body": "mybody",
+      "id": 3
+    },
+    {
+      "title": "New Added Blog",
+      "body": "i am feeling sleepy and can't write sorry",
+      "author": "aakriti",
+      "id": 4
+    },
+    {
+      "title": "New Added Blog",
+      "body": "i am feeling sleepy and can't write sorry",
+      "author": "aakriti",
+      "id": 5
+    },
+    {
+      "title": "New blog",
+      "body": "i am feeling sleepy can't write sorry",
+      "author": "aakriti",
+      "id": 6
+    },
+    {
+      "title": "New blog",
+      "body": "i am feeling sleepy can't write sorry",
+      "author": "aakriti",
+      "id": 7
+    },
+    {
+      "title": "a",
+      "body": "a",
+      "author": "aakriti",
+      "id": 8
+    },
+    {
+      "title": "a",
+      "body": "a",
+      "author": "aakriti",
+      "id": 9
+    },
+    {
+      "title": "asas",
+      "body": "asas",
+      "author": "aakriti",
+      "id": 10
+    },
+    {
+      "title": "asaswewe",
+      "body": "sadadaasas",
+      "author": "aakriti",
+      "id": 11
+    },
+    {
+      "title": "asasa",
+      "body": "asasasa",
+      "author": "aakriti",
+      "id": 12
+    },
+    {
+      "title": "asasa",
+      "body": "asasasa",
+      "author": "aakriti",
+      "id": 13
+    },
+    {
+      "title": "asasa",
+      "body": "asasasa",
+      "author": "aakriti",
+      "id": 14
+    },
+    {
+      "title": "asasa",
+      "body": "asasasa",
+      "author": "aakriti",
+      "id": 15
+    },
+    {
+      "title": "asasa",
+      "body": "asasasa",
+      "author": "aakriti",
+      "id": 16
+    },
+    {
+      "title": "asasa",
+      "body": "asasasa",
+      "author": "aakriti",
+      "id": 17
+    },
+    {
+      "title": "as",
+      "body": "w",
+      "author": "aakriti",
+      "id": 18
+    },
+    {
+      "title": "as",
+      "body": "w",
+      "author": "aakriti",
+      "id": 19
+    },
+    {
+      "title": "wew",
+      "body": "ewew",
+      "author": "aakriti",
+      "id": 20
+    }
+  ]
 }
