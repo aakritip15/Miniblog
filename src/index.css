@@ -69,6 +69,15 @@
   margin: 20px 0;
 }
 
+.blogdetails button{
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
 .create{
   max-width: 400px;
   margin: 0 auto;
